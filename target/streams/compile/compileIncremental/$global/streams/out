@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FileConverter.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\Matcher.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\IOObject.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\Matcher$.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FileObject$.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FileObject.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\DirectoryObject$$anonfun$children$1.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\IOObject$class.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FilterChecker$$anonfun$findMatchedFiles$2.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FilterChecker$$anonfun$matchesFileContent$1.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FilterChecker$.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\DirectoryObject.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\Matcher$$anonfun$execute$1.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FilterChecker$$anonfun$findMatchedFiles$3.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\DirectoryObject$.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FilterChecker.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FilterChecker$$anonfun$findMatchedFiles$1.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\Matcher$$anonfun$1.class, C:\Demo\Filesearcher\target\scala-2.10\classes\fileSearcher\FileConverter$.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(C:\Demo\Filesearcher\src\main\scala\fileSearcher\FileConverter.scala, C:\Demo\Filesearcher\src\main\scala\fileSearcher\Matcher.scala, C:\Demo\Filesearcher\src\main\scala\fileSearcher\IOObject.scala, C:\Demo\Filesearcher\src\main\scala\fileSearcher\FilterChecker.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Demo\Filesearcher\src\main\scala\fileSearcher\IOObject.scala, C:\Demo\Filesearcher\src\main\scala\fileSearcher\FilterChecker.scala, C:\Demo\Filesearcher\src\main\scala\fileSearcher\FileConverter.scala, C:\Demo\Filesearcher\src\main\scala\fileSearcher\Matcher.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to C:\Demo\Filesearcher\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 18bba51d, interfacing (CompilerInterface) with Scala compiler version 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes;C:\Users\abishek.m\.sbt\boot\scala-2.10.5\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Demo\Filesearcher\target\scala-2.10\classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.404569586 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

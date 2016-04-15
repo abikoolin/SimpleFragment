@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mFilterCheckerTests:[0m[0m
+[0m[[0minfo[0m] [0m[32mFilter checker passed a list where one file matches the filter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a list with that file[0m[0m
+[0m[[0minfo[0m] [0m[32mFilterChecker passed a list with a directory that matches a filter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should should not return the directory[0m[0m
+[0m[[0minfo[0m] [0m[32mFilter checker passed a file with content that matches the filer[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return that match successed[0m[0m
+[0m[[0minfo[0m] [0m[32mFilter checker passed a file with content that does not match a file[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return that the match failed[0m[0m

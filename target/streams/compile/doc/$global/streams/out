@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mMain Scala API documentation to C:\Demo\Filesearcher\target\scala-2.10\api...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scaladoc with arguments:[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Demo\Filesearcher\target\scala-2.10\api[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes;C:\Users\abishek.m\.sbt\boot\scala-2.10.5\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	dummy_68517c2e[0m
+[0m[[0mdebug[0m] [0m	C:\Demo\Filesearcher\HelloSbt.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Demo\Filesearcher\src\main\scala\fileSearcher\FileConverter.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Demo\Filesearcher\src\main\scala\fileSearcher\FilterChecker.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Demo\Filesearcher\src\main\scala\fileSearcher\IOObject.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Demo\Filesearcher\src\main\scala\fileSearcher\Matcher.scala[0m
+[0m[[0minfo[0m] [0mMain Scala API documentation successful.[0m
